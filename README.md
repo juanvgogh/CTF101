@@ -1,2 +1,3 @@
-# ch1efjuan.github.io
-Test repository
+# CTF methodology
+Welcome to the Capture-the-Flag methodology!
+
